@@ -1,0 +1,325 @@
+2026-07-21 08:29:51,698 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 08:29:51,699 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 08:29:51,700 - INFO -  * Restarting with stat
+2026-07-21 08:29:52,183 - WARNING -  * Debugger is active!
+2026-07-21 08:29:52,197 - INFO -  * Debugger PIN: 126-924-273
+2026-07-21 08:32:31,453 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 08:32:31,454 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 08:32:31,455 - INFO -  * Restarting with stat
+2026-07-21 08:32:31,928 - WARNING -  * Debugger is active!
+2026-07-21 08:32:31,938 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 08:33:37,495 - INFO - Home endpoint accessed
+2026-07-21 08:33:37,496 - INFO - 127.0.0.1 - - [21/Jul/2026 08:33:37] "GET / HTTP/1.1" 200 -
+2026-07-21 08:33:37,573 - INFO - 127.0.0.1 - - [21/Jul/2026 08:33:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-21 08:44:52,947 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 08:44:52,947 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 08:44:52,948 - INFO -  * Restarting with stat
+2026-07-21 08:44:53,454 - WARNING -  * Debugger is active!
+2026-07-21 08:44:53,465 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 08:45:19,238 - INFO - Successful login: user=admin, role=admin
+2026-07-21 08:45:19,239 - INFO - 127.0.0.1 - - [21/Jul/2026 08:45:19] "POST /login HTTP/1.1" 200 -
+2026-07-21 08:48:06,183 - INFO -  * Detected change in '/Users/bradzz/venv/app.py', reloading
+2026-07-21 08:48:06,349 - INFO -  * Restarting with stat
+2026-07-21 08:49:01,133 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 08:49:01,134 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 08:49:01,135 - INFO -  * Restarting with stat
+2026-07-21 08:49:01,658 - WARNING -  * Debugger is active!
+2026-07-21 08:49:01,669 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 08:49:16,898 - INFO - 127.0.0.1 - - [21/Jul/2026 08:49:16] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-21 08:50:16,331 - INFO -  * Detected change in '/Users/bradzz/venv/app.py', reloading
+2026-07-21 08:50:16,421 - INFO -  * Restarting with stat
+2026-07-21 08:50:17,020 - WARNING -  * Debugger is active!
+2026-07-21 08:50:17,033 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 08:50:39,145 - INFO - 127.0.0.1 - - [21/Jul/2026 08:50:39] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-21 08:51:53,875 - INFO -  * Detected change in '/Users/bradzz/venv/app.py', reloading
+2026-07-21 08:51:53,961 - INFO -  * Restarting with stat
+2026-07-21 08:51:54,493 - WARNING -  * Debugger is active!
+2026-07-21 08:51:54,504 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 08:52:20,214 - INFO - 127.0.0.1 - - [21/Jul/2026 08:52:20] "[31m[1mGET /customers HTTP/1.1[0m" 422 -
+2026-07-21 08:56:09,572 - INFO - Successful login: user=admin, role=admin
+2026-07-21 08:56:09,572 - INFO - 127.0.0.1 - - [21/Jul/2026 08:56:09] "POST /login HTTP/1.1" 200 -
+2026-07-21 08:56:59,426 - INFO - Customer data accessed by user=admin, role=admin
+2026-07-21 08:56:59,431 - INFO - 127.0.0.1 - - [21/Jul/2026 08:56:59] "GET /customers HTTP/1.1" 200 -
+2026-07-21 09:06:25,851 - INFO -  * Detected change in '/Users/bradzz/venv/routes/customers.py', reloading
+2026-07-21 09:06:25,937 - INFO -  * Restarting with stat
+2026-07-21 09:06:26,966 - WARNING -  * Debugger is active!
+2026-07-21 09:06:26,977 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 09:27:03,344 - INFO - 127.0.0.1 - - [21/Jul/2026 09:27:03] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-21 09:27:09,778 - INFO - 127.0.0.1 - - [21/Jul/2026 09:27:09] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-21 09:45:08,644 - INFO -  * Detected change in '/Users/bradzz/venv/routes/customers.py', reloading
+2026-07-21 09:45:08,794 - INFO -  * Restarting with stat
+2026-07-21 09:45:09,830 - WARNING -  * Debugger is active!
+2026-07-21 09:45:09,849 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 09:45:22,989 - INFO -  * Detected change in '/Users/bradzz/venv/app.py', reloading
+2026-07-21 09:45:23,097 - INFO -  * Restarting with stat
+2026-07-21 09:45:45,540 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 09:45:45,540 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 09:45:45,541 - INFO -  * Restarting with stat
+2026-07-21 09:45:46,252 - WARNING -  * Debugger is active!
+2026-07-21 09:45:46,262 - INFO -  * Debugger PIN: 453-572-975
+2026-07-21 09:47:32,997 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-21 09:47:32,998 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-21 09:47:32,998 - INFO -  * Restarting with stat
+2026-07-21 09:47:33,593 - WARNING -  * Debugger is active!
+2026-07-21 09:47:33,604 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:30:41,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-23 07:30:41,182 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-23 07:30:41,184 - INFO -  * Restarting with stat
+2026-07-23 07:30:41,663 - WARNING -  * Debugger is active!
+2026-07-23 07:30:41,675 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:32:15,842 - INFO - 127.0.0.1 - - [23/Jul/2026 07:32:15] "GET /health HTTP/1.1" 200 -
+2026-07-23 07:33:33,282 - INFO -  * Detected change in '/Users/bradzz/venv/routes/auth.py', reloading
+2026-07-23 07:33:33,387 - INFO -  * Restarting with stat
+2026-07-23 07:33:33,967 - WARNING -  * Debugger is active!
+2026-07-23 07:33:33,977 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:33:38,021 - INFO -  * Detected change in '/Users/bradzz/venv/routes/auth.py', reloading
+2026-07-23 07:33:38,157 - INFO -  * Restarting with stat
+2026-07-23 07:33:38,679 - WARNING -  * Debugger is active!
+2026-07-23 07:33:38,691 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:33:39,715 - INFO -  * Detected change in '/Users/bradzz/venv/routes/auth.py', reloading
+2026-07-23 07:33:39,811 - INFO -  * Restarting with stat
+2026-07-23 07:33:40,429 - WARNING -  * Debugger is active!
+2026-07-23 07:33:40,440 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:34:02,635 - INFO -  * Detected change in '/Users/bradzz/venv/routes/customers.py', reloading
+2026-07-23 07:34:02,740 - INFO -  * Restarting with stat
+2026-07-23 07:34:03,312 - WARNING -  * Debugger is active!
+2026-07-23 07:34:03,322 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:34:06,361 - INFO -  * Detected change in '/Users/bradzz/venv/routes/customers.py', reloading
+2026-07-23 07:34:06,481 - INFO -  * Restarting with stat
+2026-07-23 07:34:07,083 - WARNING -  * Debugger is active!
+2026-07-23 07:34:07,095 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:34:39,794 - INFO - 127.0.0.1 - - [23/Jul/2026 07:34:39] "[31m[1mPOST /login HTTP/1.1[0m" 415 -
+2026-07-23 07:37:24,007 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-23 07:37:24,007 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-23 07:37:24,008 - INFO -  * Restarting with stat
+2026-07-23 07:37:24,506 - WARNING -  * Debugger is active!
+2026-07-23 07:37:24,517 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:57:19,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-23 07:57:19,387 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-23 07:57:19,389 - INFO -  * Restarting with stat
+2026-07-23 07:57:19,896 - WARNING -  * Debugger is active!
+2026-07-23 07:57:19,907 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 07:57:28,604 - INFO - 127.0.0.1 - - [23/Jul/2026 07:57:28] "GET /health HTTP/1.1" 200 -
+2026-07-23 08:04:13,135 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-23 08:04:13,136 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-23 08:04:13,137 - INFO -  * Restarting with stat
+2026-07-23 08:04:13,740 - WARNING -  * Debugger is active!
+2026-07-23 08:04:13,750 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 08:08:10,884 - INFO - 127.0.0.1 - - [23/Jul/2026 08:08:10] "[31m[1mPOST /login HTTP/1.1[0m" 415 -
+2026-07-23 08:18:36,895 - INFO - 127.0.0.1 - - [23/Jul/2026 08:18:36] "[31m[1mPOST /login HTTP/1.1[0m" 415 -
+2026-07-23 08:19:45,632 - INFO - 127.0.0.1 - - [23/Jul/2026 08:19:45] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2026-07-23 08:20:02,943 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-23 08:20:02,943 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-23 08:20:02,944 - INFO -  * Restarting with stat
+2026-07-23 08:20:03,525 - WARNING -  * Debugger is active!
+2026-07-23 08:20:03,537 - INFO -  * Debugger PIN: 453-572-975
+2026-07-23 08:20:09,284 - INFO - 127.0.0.1 - - [23/Jul/2026 08:20:09] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2026-07-23 08:24:19,957 - WARNING - Failed login attempt for username: admin
+2026-07-23 08:24:19,958 - INFO - 127.0.0.1 - - [23/Jul/2026 08:24:19] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-07-23 08:28:05,801 - WARNING - Failed login attempt for username: admin
+2026-07-23 08:28:05,801 - INFO - 127.0.0.1 - - [23/Jul/2026 08:28:05] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-07-23 08:28:19,431 - INFO - Successful login: user=admin, role=admin
+2026-07-23 08:28:19,431 - INFO - 127.0.0.1 - - [23/Jul/2026 08:28:19] "POST /login HTTP/1.1" 200 -
+2026-07-23 08:30:27,839 - INFO - 127.0.0.1 - - [23/Jul/2026 08:30:27] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-23 08:31:00,617 - INFO - 127.0.0.1 - - [23/Jul/2026 08:31:00] "[31m[1mGET /customers HTTP/1.1[0m" 422 -
+2026-07-23 08:31:24,085 - INFO - Customer data accessed by user=admin, role=admin
+2026-07-23 08:31:24,090 - INFO - 127.0.0.1 - - [23/Jul/2026 08:31:24] "GET /customers HTTP/1.1" 200 -
+2026-07-23 08:33:07,053 - INFO - 127.0.0.1 - - [23/Jul/2026 08:33:07] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-23 08:34:16,303 - INFO - 127.0.0.1 - - [23/Jul/2026 08:34:16] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-23 08:34:31,178 - INFO - 127.0.0.1 - - [23/Jul/2026 08:34:31] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-23 08:34:49,953 - INFO - 127.0.0.1 - - [23/Jul/2026 08:34:49] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-23 08:35:19,307 - INFO - Admin endpoint accessed by user=admin
+2026-07-23 08:35:19,308 - INFO - 127.0.0.1 - - [23/Jul/2026 08:35:19] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-23 08:41:04,725 - INFO - Admin endpoint accessed by user=admin
+2026-07-23 08:41:04,725 - INFO - 127.0.0.1 - - [23/Jul/2026 08:41:04] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-23 09:05:22,569 - INFO - 127.0.0.1 - - [23/Jul/2026 09:05:22] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-27 21:00:49,788 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-27 21:00:49,788 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-27 21:00:49,789 - INFO -  * Restarting with stat
+2026-07-27 21:00:50,348 - WARNING -  * Debugger is active!
+2026-07-27 21:00:50,362 - INFO -  * Debugger PIN: 453-572-975
+2026-07-27 21:14:45,479 - INFO - 127.0.0.1 - - [27/Jul/2026 21:14:45] "GET /health HTTP/1.1" 200 -
+2026-07-27 21:15:02,799 - INFO - Successful login: user=admin, role=admin
+2026-07-27 21:15:02,800 - INFO - 127.0.0.1 - - [27/Jul/2026 21:15:02] "POST /login HTTP/1.1" 200 -
+2026-07-27 21:15:35,789 - INFO - Customer data accessed by user=admin, role=admin
+2026-07-27 21:15:35,795 - INFO - 127.0.0.1 - - [27/Jul/2026 21:15:35] "GET /customers HTTP/1.1" 200 -
+2026-07-27 21:16:07,402 - INFO - 127.0.0.1 - - [27/Jul/2026 21:16:07] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-27 21:16:19,189 - INFO - Admin endpoint accessed by user=admin
+2026-07-27 21:16:19,190 - INFO - 127.0.0.1 - - [27/Jul/2026 21:16:19] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-27 21:16:33,853 - INFO - 127.0.0.1 - - [27/Jul/2026 21:16:33] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-27 21:18:12,312 - INFO - Admin endpoint accessed by user=admin
+2026-07-27 21:18:12,313 - INFO - 127.0.0.1 - - [27/Jul/2026 21:18:12] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-27 21:18:53,135 - INFO - Admin endpoint accessed by user=admin
+2026-07-27 21:18:53,136 - INFO - 127.0.0.1 - - [27/Jul/2026 21:18:53] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-28 09:43:34,203 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-28 09:43:34,204 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-28 09:43:34,205 - INFO -  * Restarting with stat
+2026-07-28 09:43:34,868 - WARNING -  * Debugger is active!
+2026-07-28 09:43:34,880 - INFO -  * Debugger PIN: 453-572-975
+2026-07-28 09:44:41,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-28 09:44:41,076 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-28 09:44:41,077 - INFO -  * Restarting with stat
+2026-07-28 09:44:41,646 - WARNING -  * Debugger is active!
+2026-07-28 09:44:41,656 - INFO -  * Debugger PIN: 453-572-975
+2026-07-28 09:44:54,586 - INFO - 127.0.0.1 - - [28/Jul/2026 09:44:54] "GET /health HTTP/1.1" 200 -
+2026-07-28 09:44:59,151 - INFO - 127.0.0.1 - - [28/Jul/2026 09:44:59] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-28 10:09:29,152 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:29] code 400, message Bad request version ('\x01\x0e×\x9fÙehT\x80è0\x04dPcÛâÄ7¨Õ\x8c\x01\x00*zz\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:09:29,152 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:29] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03£ºµ%.R·{3ì\x07Ü\x92Ç\x15î×Ù©ºÊ¥âJ±\x13\x84:*\x13²ð ÈªM?\x8c\x01\x1aå\x85\x01\x0e×\x9fÙehT\x80è0\x04dPcÛâÄ7¨Õ\x8c\x01\x00*zz\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:09:29,155 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:29] code 400, message Bad request version ('ûÐ\x19\x93D¿@ð\x14\x99éZäqmÀ\x1bN·Ó¦ª\x05\x13\x9fPá¡DØ\x94>\x00,\x1a\x1a\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:09:29,155 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:29] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03¯©\x8dJ\x1fz\x17\x9cÖÎ¦ÃN\x8e§g¢à\x9bÊ\x1d0R\x10ÑÔ\x03òÆYrh ûÐ\x19\x93D¿@ð\x14\x99éZäqmÀ\x1bN·Ó¦ª\x05\x13\x9fPá¡DØ\x94>\x00,\x1a\x1a\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:09:46,162 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:46] code 400, message Bad request version ('Ù\x00*úú\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:09:46,162 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:46] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03_Â,³æ£h\x9cþ\x83âu\x01¹0n²\x14ysÆËÈæËÒy\x91¤õõ¹ \x118&éæïµó©ëG2\x0bû\x0d/â¨]\x885\x9dH÷\x17IÙ\x0c_\x01 Ù\x00*úú\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:09:46,164 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:46] code 400, message Bad request version ('Z`\x0f®À¿/ºm³,GJ\x8eå±C')
+2026-07-28 10:09:46,165 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:46] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03Z\x08\x9e®-¼\x97³þ\x09Ê\x1dZ`\x0f®À¿/ºm³,GJ\x8eå±C[0m" 400 -
+2026-07-28 10:09:55,418 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:55] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x05å\x01\x00\x05á\x03\x03E\x9e\x05ÕÌ´\x9bXþ')
+2026-07-28 10:09:55,418 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:55] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03E\x9e\x05ÕÌ´\x9bXþ\x1d\x03-\x96ä·Mh[0m" 400 -
+2026-07-28 10:09:55,421 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:09:55] code 400, message Bad request version ('¡mÂãÒ²gê4%R®Gü9ø.LÊX©B5=Ø9,\x86î(Ïè\x00,')
+2026-07-28 10:09:55,421 - INFO - 127.0.0.1 - - [28/Jul/2026 10:09:55] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03\x14C»o[\x16Õ\x09\x86\x87|Q¢0}·ÿ¬=ßRG¾\x97©ëS\x9dLÔô4 ¡mÂãÒ²gê4%R®Gü9ø.LÊX©B5=Ø9,\x86î(Ïè\x00,[0m" 400 -
+2026-07-28 10:10:04,356 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:04] code 400, message Bad request version ('`7\x18Ì7y#\x01²ZÌô\x95\x1b:ðáF\x1a9pØ\x06;\x0f\x00*ZZ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:10:04,357 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:04] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03Äñ\x008\x96)\x96´°\x7fÔiI\x02[%\x0b\x1cbYslüÖ\x08ñ)ÙÚ\x95×; ùP\x0bDþS\x85`7\x18Ì7y#\x01²ZÌô\x95\x1b:ðáF\x1a9pØ\x06;\x0f\x00*ZZ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:10:04,359 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:04] code 400, message Bad request version ('²¶\x00,ªª\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:10:04,359 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:04] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03µ\x13Ó\x06:.Ì|9\x1a3\x85\x89GÄ\x8fò2Y]ÿ\x0b\x02W´\x1fá)1|â7 \x8cc5\x8fk×Ds\x1a\x9e}\x08øÇ¨)hÂ\x0d~\x19<=aª¥H\x1cÔ\x09²¶\x00,ªª\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:10:10,915 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:10] code 400, message Bad request version ('nX\x88ze')
+2026-07-28 10:10:10,916 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:10] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03\x8b'«ã¼£çt±ØµD\x91È\x19\x91~}O:@NÖ\x13\x91 ¤¿­\x92§c nX\x88ze[0m" 400 -
+2026-07-28 10:10:10,918 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:10] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03èÅ§M')
+2026-07-28 10:10:10,918 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:10] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03èÅ§M\x1f'8ký\x8duì\x8f@ù[0m" 400 -
+2026-07-28 10:10:17,434 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:17] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x05å\x01\x00\x05á\x03\x03\x92\x86Jü°\x82\x83\x8f®¶Ý\x1a¶hÞ¸\x9c\x88wì^\x02ÂØ\x12«^¡àÓqg')
+2026-07-28 10:10:17,434 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:17] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03\x92\x86Jü°\x82\x83\x8f®¶Ý\x1a¶hÞ¸\x9c\x88wì^\x02ÂØ\x12«^¡àÓqg }\x0fÜõ\x06\x01\x97Ëw\x90Î«Engj\x9fgÆ\x91É\x19\x99\x83\x9bõÁuÀ'b\x0e\x00*\x9a\x9a\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:10:17,437 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:17] code 400, message Bad request version ("±\x8f©¤foVa?¨Ø\x16!óÊµ×\x08\x93ÀÍX)'\x00,::\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À")
+2026-07-28 10:10:17,437 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:17] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03<2xÎ3NmËÞ\x12ÿ\x0b×+Æ\x00\x09&ë\x86P(yï[\x1b¿ÿ]\x9cµn ;î<qGúQ\x0b±\x8f©¤foVa?¨Ø\x16!óÊµ×\x08\x93ÀÍX)'\x00,::\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:10:51,682 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:51] code 400, message Bad request version ('{Æ´×\x10*§\xadQ\x95A')
+2026-07-28 10:10:51,682 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:51] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03\x0e\x02o 9p\x1b\x146Ö\x02\x0b<Þ\x11\x1ax|Ù\x8d\x12§²Æ3¦rÙ¡ÛK\x9c {Æ´×\x10*§­Q\x95A[0m" 400 -
+2026-07-28 10:10:51,685 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:51] code 400, message Bad request version ('ô\x90\x06b\x11ÿ;\x138\x93s\x83jÖ\x9cBô,\x05g"')
+2026-07-28 10:10:51,685 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:51] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03ç\x91_²yÎ¦\x7f@P\x9b,{n¢\x17f¶ióí\x09gw~L\x91F\x18\x92£Ñ ô\x90\x06b\x11ÿ;\x138\x93s\x83jÖ\x9cBô,\x05g"[0m" 400 -
+2026-07-28 10:10:57,971 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:57] code 400, message Bad request version ('/\x18~¶¤L\x7fIÁ2\x8a8þ;U\x08±Ë\x13V\x00*ÚÚ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:10:57,971 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:57] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03äN*ï'Úd\x8e9§QÈV3\x9dhÕ\x9cl?AÐMªâ\x95Ü\x93\x813\x95g OTÃ*/Ë\x0f\x96²6W\x85/\x18~¶¤L\x7fIÁ2\x8a8þ;U\x08±Ë\x13V\x00*ÚÚ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:10:57,973 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:10:57] code 400, message Bad request version ('dhíü\x82$\x9e^lYqÂ#8¼â6Y\x00,êê\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:10:57,973 - INFO - 127.0.0.1 - - [28/Jul/2026 10:10:57] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03Db\x04î\x11ÃK¾ÖaÙ\x10\x88·U5\x03\x18ý1­z\x1bxI¤\x17ß\x82\x9aÍ& \x19(5W¿\x15Æ³\x07ûh}Ë\x85dhíü\x82$\x9e^lYqÂ#8¼â6Y\x00,êê\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:11:30,239 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:11:30] code 400, message Bad request version ('xø½9\x8dt\x08Ó')
+2026-07-28 10:11:30,239 - INFO - 127.0.0.1 - - [28/Jul/2026 10:11:30] "[31m[1m\x16\x03\x01\x05å\x01\x00\x05á\x03\x03_^\x00ßn±;\x03e$\x9baÌ¿{%ûî\x01ItDÕó\x1eQ\x04Wn\x11{Y ÐaW}\x1exø½9\x8dt\x08Ó[0m" 400 -
+2026-07-28 10:11:30,241 - ERROR - 127.0.0.1 - - [28/Jul/2026 10:11:30] code 400, message Bad request version ('\x96\x9d¿Éý@¨,ô\x00,JJ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À')
+2026-07-28 10:11:30,241 - INFO - 127.0.0.1 - - [28/Jul/2026 10:11:30] "[31m[1m\x16\x03\x01\x05ç\x01\x00\x05ã\x03\x03×Ù¤î\x97`?¡û\x883þµp\x99e\x00Ôß^c½R"¾¬°¬Ec{' \x1f£ké|nÓàh;0ù4}qC¯È¦Ùß\x84\x85\x96\x9d¿Éý@¨,ô\x00,JJ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À[0m" 400 -
+2026-07-28 10:17:02,189 - INFO - 127.0.0.1 - - [28/Jul/2026 10:17:02] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-28 10:18:15,478 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-28 10:18:15,479 - INFO - [33mPress CTRL+C to quit[0m
+2026-07-28 10:18:15,480 - INFO -  * Restarting with stat
+2026-07-28 10:18:15,978 - WARNING -  * Debugger is active!
+2026-07-28 10:18:15,990 - INFO -  * Debugger PIN: 453-572-975
+2026-07-28 10:18:21,671 - INFO - 127.0.0.1 - - [28/Jul/2026 10:18:21] "GET /health HTTP/1.1" 200 -
+2026-07-28 10:19:50,700 - INFO - Successful login: user=admin, role=admin
+2026-07-28 10:19:50,700 - INFO - 127.0.0.1 - - [28/Jul/2026 10:19:50] "POST /login HTTP/1.1" 200 -
+2026-07-28 10:20:04,660 - INFO - Customer data accessed by user=admin, role=admin
+2026-07-28 10:20:04,666 - INFO - 127.0.0.1 - - [28/Jul/2026 10:20:04] "GET /customers HTTP/1.1" 200 -
+2026-07-28 10:20:13,025 - INFO - 127.0.0.1 - - [28/Jul/2026 10:20:13] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-28 10:20:19,043 - INFO - Admin endpoint accessed by user=admin
+2026-07-28 10:20:19,043 - INFO - 127.0.0.1 - - [28/Jul/2026 10:20:19] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-28 10:20:32,953 - INFO - 127.0.0.1 - - [28/Jul/2026 10:20:32] "[33mGET /analyst/customers HTTP/1.1[0m" 404 -
+2026-07-28 10:21:33,323 - INFO - Admin endpoint accessed by user=admin
+2026-07-28 10:21:33,323 - INFO - 127.0.0.1 - - [28/Jul/2026 10:21:33] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-28 10:21:59,295 - WARNING - Failed login attempt for username: analyst
+2026-07-28 10:21:59,295 - INFO - 127.0.0.1 - - [28/Jul/2026 10:21:59] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-07-28 10:22:55,309 - WARNING - Failed login attempt for username: admin
+2026-07-28 10:22:55,309 - INFO - 127.0.0.1 - - [28/Jul/2026 10:22:55] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-07-28 10:23:08,738 - WARNING - Failed login attempt for username: admin
+2026-07-28 10:23:08,738 - INFO - 127.0.0.1 - - [28/Jul/2026 10:23:08] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-07-28 10:23:25,513 - INFO - Successful login: user=analyst, role=analyst
+2026-07-28 10:23:25,513 - INFO - 127.0.0.1 - - [28/Jul/2026 10:23:25] "POST /login HTTP/1.1" 200 -
+2026-07-28 10:23:37,767 - INFO - Customer data accessed by user=analyst, role=analyst
+2026-07-28 10:23:37,770 - INFO - 127.0.0.1 - - [28/Jul/2026 10:23:37] "GET /customers HTTP/1.1" 200 -
+2026-07-28 10:23:49,811 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:23:49,812 - INFO - 127.0.0.1 - - [28/Jul/2026 10:23:49] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:48:31,128 - INFO - 127.0.0.1 - - [28/Jul/2026 10:48:31] "GET /health HTTP/1.1" 200 -
+2026-07-28 10:48:38,148 - INFO - Successful login: user=analyst, role=analyst
+2026-07-28 10:48:38,148 - INFO - 127.0.0.1 - - [28/Jul/2026 10:48:38] "POST /login HTTP/1.1" 200 -
+2026-07-28 10:48:48,899 - INFO - 127.0.0.1 - - [28/Jul/2026 10:48:48] "[31m[1mGET /customers HTTP/1.1[0m" 401 -
+2026-07-28 10:49:04,396 - INFO - Customer data accessed by user=analyst, role=analyst
+2026-07-28 10:49:04,399 - INFO - 127.0.0.1 - - [28/Jul/2026 10:49:04] "GET /customers HTTP/1.1" 200 -
+2026-07-28 10:49:34,218 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:49:34,218 - INFO - 127.0.0.1 - - [28/Jul/2026 10:49:34] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:49:51,353 - INFO - 127.0.0.1 - - [28/Jul/2026 10:49:51] "[31m[1mGET /admin/customers HTTP/1.1[0m" 401 -
+2026-07-28 10:50:00,308 - INFO - Successful login: user=admin, role=admin
+2026-07-28 10:50:00,308 - INFO - 127.0.0.1 - - [28/Jul/2026 10:50:00] "POST /login HTTP/1.1" 200 -
+2026-07-28 10:50:10,970 - INFO - Customer data accessed by user=admin, role=admin
+2026-07-28 10:50:10,973 - INFO - 127.0.0.1 - - [28/Jul/2026 10:50:10] "GET /customers HTTP/1.1" 200 -
+2026-07-28 10:50:18,024 - INFO - Admin endpoint accessed by user=admin
+2026-07-28 10:50:18,025 - INFO - 127.0.0.1 - - [28/Jul/2026 10:50:18] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-28 10:50:33,594 - INFO - Admin endpoint accessed by user=admin
+2026-07-28 10:50:33,594 - INFO - 127.0.0.1 - - [28/Jul/2026 10:50:33] "GET /admin/customers HTTP/1.1" 200 -
+2026-07-28 10:50:50,432 - INFO - 127.0.0.1 - - [28/Jul/2026 10:50:50] "[33mGET /analyst/customers HTTP/1.1[0m" 404 -
+2026-07-28 10:52:49,319 - INFO - Successful login: user=analyst, role=analyst
+2026-07-28 10:52:49,334 - INFO - 127.0.0.1 - - [28/Jul/2026 10:52:49] "POST /login HTTP/1.1" 200 -
+2026-07-28 10:53:04,969 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:04,970 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:04] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:06,103 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:06,104 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:06] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:06,911 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:06,911 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:06] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:07,700 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:07,700 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:07] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:08,447 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:08,448 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:08] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:09,173 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:09,174 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:09] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:10,045 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:10,046 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:10] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:10,998 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:10,999 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:10] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:11,935 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:11,935 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:11] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:12,834 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:12,835 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:12] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:13,510 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:13,510 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:13] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:14,399 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:14,399 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:14] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:15,337 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:15,337 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:15] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:17,841 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:17,841 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:17] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:18,829 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:18,829 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:18] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:19,705 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:19,706 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:19] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:20,380 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:20,380 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:20] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:21,291 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:21,291 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:21] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:22,126 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:22,126 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:22] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:22,702 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:22,702 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:22] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:23,463 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:23,463 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:23] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:24,084 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:24,085 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:24] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:24,960 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:24,960 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:24] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:25,966 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:25,966 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:25] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:27,021 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:27,021 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:27] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:27,833 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:27,833 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:27] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:28,769 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:28,769 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:28] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:29,620 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:29,620 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:29] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:53:40,502 - WARNING - Unauthorized access attempt: user=analyst, role=analyst, required_roles=['admin']
+2026-07-28 10:53:40,502 - INFO - 127.0.0.1 - - [28/Jul/2026 10:53:40] "[31m[1mGET /admin/customers HTTP/1.1[0m" 403 -
+2026-07-28 10:54:27,506 - INFO -  * Detected change in '/Users/bradzz/venv/extensions.py', reloading
+2026-07-28 10:54:27,637 - INFO -  * Restarting with stat
